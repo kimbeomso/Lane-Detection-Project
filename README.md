@@ -23,12 +23,15 @@
 <p align="center"><img src=" " width="600px"></p>  
 
 
-### Project scenario
+### Project contents
 
-1. 
-2. 
-3. 
-4. 
+1. 이미지 왜곡 보정
+2. ROI설정
+3. SOBEL연산 , HSL색공간 사용
+4. Perspective transform -> Bird Eye's View  
+5. Sliding Window Search 차선위치 탐색  
+6. 차선의 이탈율 구함  
+7. 차선의 제어량(vel, brake, accel)송신
 
 
 ## 프로젝트 결과
