@@ -20,7 +20,7 @@
 
 
 ## System Architecture
-<p align="center"><img src=" " width="600px"></p>  
+<p align="center"><img src="https://user-images.githubusercontent.com/56825894/100778521-74660780-344a-11eb-993c-ed027cbd7a0e.PNG" width="600px"></p>  
 
 
 ### Project contents
@@ -36,12 +36,5 @@
 
 ## 프로젝트 결과
 
-<p align="center"><img src=" " width="500px"></p>  
+<p align="center"><img src="https://user-images.githubusercontent.com/56825894/100778536-7b8d1580-344a-11eb-91fc-9ceacb25f8e9.gif" width="500px"></p>  
 <p align="center"> 사진1에 대한 설명 </p>  
-
-<p align="center"><img src=" " width="500px"></p>  
-<p align="center"> 사진2에 대한 설명 </p>  
-
-<p align="center"><img src=" " width="500px"></p>  
-<p align="center"> 사진3에 대한 설명 </p>  
-
