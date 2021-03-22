@@ -37,4 +37,4 @@
 ## 프로젝트 결과
 
 <p align="center"><img src="https://user-images.githubusercontent.com/56825894/100778536-7b8d1580-344a-11eb-91fc-9ceacb25f8e9.gif" width="500px"></p>  
-<p align="center"> 사진1에 대한 설명 </p>  
+<p align="center"> 직진하는 영상 </p>  
